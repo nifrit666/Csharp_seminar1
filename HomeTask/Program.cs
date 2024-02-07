@@ -28,8 +28,8 @@ public class Answer {
             secondNumber = int.Parse(args[1]);
         } else {
            // Здесь вы можете поменять значения для отправки кода на Выполнение
-            firstNumber = 6;
-            secondNumber = 5;
+            firstNumber = 3;
+            secondNumber = 3;
         }
 
         // Не удаляйте строки ниже
